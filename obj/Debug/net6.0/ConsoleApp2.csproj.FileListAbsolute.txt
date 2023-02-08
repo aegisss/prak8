@@ -1,0 +1,34 @@
+D:\Project\C шарп\prl--8\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+D:\Project\C шарп\prl--8\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C шарп\prl--8\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Project\C шарп\prl--8\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+D:\Project\C шарп\prl--8\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Project\C шарп\prl--8\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+D:\Project\C шарп\prl--8\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+D:\Project\C шарп\prl--8\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+D:\Project\C шарп\prl--8\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+D:\Project\C шарп\prl--8\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+D:\Project\C шарп\prl--8\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+D:\Project\C шарп\prl--8\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+D:\Project\C шарп\prl--8\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+D:\Project\C шарп\prl--8\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+D:\Project\C шарп\prl--8\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+D:\Project\C шарп\prl--8\ConsoleApp2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\C шарп\prl--8\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+D:\Project\c шарп\8-я практическая\bin\Debug\net6.0\ConsoleApp2.exe
+D:\Project\c шарп\8-я практическая\bin\Debug\net6.0\ConsoleApp2.deps.json
+D:\Project\c шарп\8-я практическая\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+D:\Project\c шарп\8-я практическая\bin\Debug\net6.0\ConsoleApp2.dll
+D:\Project\c шарп\8-я практическая\bin\Debug\net6.0\ConsoleApp2.pdb
+D:\Project\c шарп\8-я практическая\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\c шарп\8-я практическая\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+D:\Project\c шарп\8-я практическая\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\c шарп\8-я практическая\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Project\c шарп\8-я практическая\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+D:\Project\c шарп\8-я практическая\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Project\c шарп\8-я практическая\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+D:\Project\c шарп\8-я практическая\obj\Debug\net6.0\ConsoleApp2.dll
+D:\Project\c шарп\8-я практическая\obj\Debug\net6.0\refint\ConsoleApp2.dll
+D:\Project\c шарп\8-я практическая\obj\Debug\net6.0\ConsoleApp2.pdb
+D:\Project\c шарп\8-я практическая\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+D:\Project\c шарп\8-я практическая\obj\Debug\net6.0\ref\ConsoleApp2.dll
